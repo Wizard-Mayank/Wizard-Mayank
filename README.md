@@ -59,6 +59,15 @@ I'm a passionate and driven software developer who thrives on building elegant, 
   <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
 </p>
 
+---
+
+## 📊 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wizard-Mayank&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wizard-Mayank&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
