@@ -21,6 +21,24 @@
 
 ---
 
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/mindfulpandey/practice/">
+    <img src="https://img.shields.io/badge/🔥 GFG-Streak-160_days-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/mindfulpandey/practice/">
+    <img src="https://img.shields.io/badge/🌟 GFG%20Rank-Top%205%25-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/mindfulpandey/">
+    <img src="https://img.shields.io/badge/💻 LeetCode-280_Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
 ## 🧑‍💻 About Me
 
 I'm a passionate and driven software developer who thrives on building elegant, high-performance web applications and intelligent ML models. Currently pursuing my B.Tech and working on crafting a **visually stunning, interactive developer portfolio**, I'm on a mission to blend design with code — the Apple way 🍎✨
