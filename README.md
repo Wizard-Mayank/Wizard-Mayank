@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <a href="https://wizard-mayank.github.io/" target="_blank">
+  <a href="https://github.com/Wizard-Mayank/My-Portfolio/blob/main/public/Mayank_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/Wizard-Mayank/My-Portfolio/public/Mayank_Resume.pdf" target="_blank">
