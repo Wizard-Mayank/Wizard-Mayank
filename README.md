@@ -57,8 +57,9 @@ I'm a passionate and driven software developer who thrives on building elegant, 
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/Wizard-Mayank/Wizard-Mayank/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Wizard-Mayank/Wizard-Mayank/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
+
 
 ---
 
