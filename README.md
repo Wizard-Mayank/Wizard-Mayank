@@ -31,6 +31,37 @@ I'm a passionate and driven software developer who thrives on building elegant, 
 
 ---
 
+
+## 🛠️ Tech Stack & Badges
+
+<p align="center">
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C Badge" />  
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java Badge" />  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />  
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP Badge" />  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL Badge" />
+
+  <!-- Web Fundamentals -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Badge" />  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3 Badge" />  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+
+  <!-- Frameworks & Tools -->
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Badge" />  
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge" />  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js Badge" />  
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js Badge" />
+
+  <!-- Coding Challenges -->
+  <img src="https://img.shields.io/badge/GeeksforGeeks-239120?style=flat&logo=geeksforgeeks&logoColor=white" alt="GFG Streak Badge" />  
+  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
+</p>
+
+
+---
+
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
