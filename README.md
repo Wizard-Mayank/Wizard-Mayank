@@ -10,6 +10,17 @@
 
 ---
 
+<p align="center">
+  <a href="https://wizardmayank.github.io/My-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Wizard-Mayank/My-Portfolio/blob/main/public/Mayank_Pandey_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄 Resume-000?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🧑‍💻 About Me
 
 I'm a passionate and driven software developer who thrives on building elegant, high-performance web applications and intelligent ML models. Currently pursuing my B.Tech and working on crafting a **visually stunning, interactive developer portfolio**, I'm on a mission to blend design with code — the Apple way 🍎✨
