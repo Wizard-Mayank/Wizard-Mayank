@@ -65,6 +65,13 @@ I'm a passionate and driven software developer who thrives on building elegant, 
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wizard-Mayank/Wizard-Mayank/main/metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
+
 ## 📡 Currently Working On
 
 - 🔭 Finishing my **developer portfolio** with cinematic scrolls, particle effects, and motion UI
