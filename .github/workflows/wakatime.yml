@@ -1,0 +1,25 @@
+name: ⏱️ WakaTime Weekly Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"  # Runs every Monday
+  workflow_dispatch:
+
+jobs:
+  wakatime-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          base: ""
+          config_timezone: Asia/Kolkata
+          config_display: large
+          config_theme: terminal
+
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, languages, editors, os
