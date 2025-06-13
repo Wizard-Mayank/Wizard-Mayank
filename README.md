@@ -73,11 +73,11 @@ I'm a passionate and driven software developer who thrives on building elegant, 
 
 ---
 
----
 
+## ⏱️ Weekly WakaTime Coding Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wizard-Mayank/Wizard-Mayank/main/metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/Wizard-Mayank/Wizard-Mayank/main/metrics.plugin.wakatime.svg" alt="WakaTime Stats" />
 </p>
 
 ---
