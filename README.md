@@ -3,8 +3,10 @@
 <h1 align="center">Hi 👋, I'm Mayank Pandey</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=14F7FF&center=true&vCenter=true&width=1000&lines=🚀+Full-Stack+Developer+%7C+ML+Enthusiast+%7C+Tech+Explorer;💡+Building+Pixel-Perfect+UX+%2B+Powerful+Logic;📈+GFG+DSA+Streaker+%7C+Open+Source+Contributor;🎯+Final+Year+Engineering+Student+%7C+Future+SDE;🔥+Code.+Create.+Contribute.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=14F7FF&center=true&vCenter=true&width=1000&lines=🚀+Full-Stack+Developer+%7C+ML+Enthusiast+%7C+Tech+Explorer;💡+Building+Pixel-Perfect+UX+%2B+Powerful+Logic;📈+GFG+DSA+Streaker+%7C+Open+Source+Contributor;🎯+Final+Year+Engineering+Student+%7C+Future+SDE;🔥+Code.+Create.+Contribute.+Repeat." />
 </p>
+
+
 
 ---
 
