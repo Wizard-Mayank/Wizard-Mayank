@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <a href="https://wizard-mayank.github.io/My-Portfolio/" target="_blank">
+  <a href="https://mayank-portfolio-five.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/Wizard-Mayank/My-Portfolio/blob/main/public/Mayank_Resume.pdf" target="_blank">
@@ -38,7 +38,8 @@
 I'm a passionate full-stack developer and ML enthusiast on a mission to build stunning digital experiences that blend aesthetics with performance. Currently a final-year engineering student actively seeking an SDE role!
 
 - 🎓 Final-year B.Tech | Open to **SDE roles**
-- 🔭 Building a **cinematic developer portfolio** with interactive scrolls & glassmorphism
+- 🔭 Built a **cinematic developer portfolio** with animations, particles, custom cursor & glassmorphism
+- 🌐 Live at: [mayank-portfolio-five.vercel.app](https://mayank-portfolio-five.vercel.app)
 - 🤖 ML Projects: **Gesture Recognition**, **Vehicle Auth System**
 - 📚 DSA Streak: 160+ days on **GeeksforGeeks** + 280+ problems on **LeetCode**
 - ⚒️ Actively working with **React**, **Next.js**, **Tailwind**, **TensorFlow**
@@ -142,7 +143,7 @@ I'm a passionate full-stack developer and ML enthusiast on a mission to build st
   <a href="https://linkedin.com/in/pandeymayank369" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://wizard-mayank.github.io/My-Portfolio" target="_blank">
+  <a href="https://mayank-portfolio-five.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-05122A?style=flat&logo=internet-explorer" />
   </a>
 </p>
