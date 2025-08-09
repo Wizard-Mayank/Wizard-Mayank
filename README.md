@@ -4,9 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" />
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="60" />
-  <img src="https://media.giphy.com/media/26BRBupa7VxiUukPK/giphy.gif" width="60" />
+  <img src="https://raw.githubusercontent.com/Wizard-Mayank/Wizard-Mayank/main/.github/Dev.gif" width="100%" alt="Hero Intro Animation"/>
 </p>
 
 ---
