@@ -1,86 +1,70 @@
-<!-- HEADER -->
-<h1 align="center">Hey 👋, I'm Mayank Pandey</h1>
-<h3 align="center">🚀 Backend Developer | AIML Enthusiast | Final Year CSE Student</h3>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=28&duration=3000&pause=800&color=F5F5F5&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mayank+Pandey;Backend+Developer+%26+AI+Enthusiast;Crafting+Scalable+%26+High-Performance+Systems;Passionate+about+Clean+Architecture;Exploring+AI%2C+ML+%26+Cloud;Always+Learning+Something+New" alt="Typing SVG" />
+</h1>
 
----
+<!-- Minimal Divider -->
+<img src="https://imgur.com/8bKUjto.png" width="100%" height="2" alt="divider"/>
 
-<!-- ABOUT ME -->
-### 🧑‍💻 About Me  
-- 🎓 Final-year B.Tech CSE student, passionate about building **scalable backend systems** and diving deep into **AI & Machine Learning**.  
-- 🔍 Currently learning **Computer Vision** (Face Detection in Python) → next up: **Data Science** to strengthen my AIML foundation.  
-- 💡 Fun Fact: I can debug faster with coffee ☕ than without Wi-Fi.  
+<!-- About Me -->
+## 👋 About Me  
+> Backend developer & AI enthusiast passionate about building efficient, scalable systems with modern architecture.  
+> I focus on **performance**, **security**, and **clean code** while exploring AI/ML and distributed computing.  
 
----
+<!-- Minimal Divider -->
+<img src="https://imgur.com/8bKUjto.png" width="100%" height="2" alt="divider"/>
 
-<!-- PORTFOLIO & RESUME -->
-### 📌 Portfolio & Resume  
-- 🌐 **Portfolio**: [wizard-mayank.vercel.app](https://wizard-mayank.vercel.app)  
-- 📄 **Resume**: [View Resume](https://wizard-mayank.vercel.app/resume.pdf)  
+<!-- Skills -->
+## 🛠 Skills & Tools  
+<div align="center">
 
----
+| Languages | Frameworks | Tools | Cloud |
+|-----------|------------|-------|-------|
+| ![Python](https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=python) | ![FastAPI](https://img.shields.io/badge/-FastAPI-111?style=for-the-badge&logo=fastapi) | ![Docker](https://img.shields.io/badge/-Docker-111?style=for-the-badge&logo=docker) | ![AWS](https://img.shields.io/badge/-AWS-111?style=for-the-badge&logo=amazonaws) |
+| ![C++](https://img.shields.io/badge/-C++-111?style=for-the-badge&logo=cplusplus) | ![Django](https://img.shields.io/badge/-Django-111?style=for-the-badge&logo=django) | ![Git](https://img.shields.io/badge/-Git-111?style=for-the-badge&logo=git) | ![Azure](https://img.shields.io/badge/-Azure-111?style=for-the-badge&logo=microsoftazure) |
 
-<!-- DSA & CP STATS -->
-### 📊 DSA & Competitive Programming  
-- **GeeksforGeeks Streak**: `325 days`  
-- **LeetCode Problems Solved**: `498`  
+</div>
 
----
+<!-- Minimal Divider -->
+<img src="https://imgur.com/8bKUjto.png" width="100%" height="2" alt="divider"/>
 
-<!-- TECH STACK -->
-### 🛠 Tech Stack (Currently Learning & Using)  
-#### Backend  
-`Node.js` `Express.js` `MongoDB` `PostgreSQL`  
-#### AIML & Data Science  
-`Python` `NumPy` `Pandas` `OpenCV`  
-#### Tools & Other Skills  
-`Git` `GitHub` `Postman` `REST APIs`
+<!-- GitHub Stats -->
+## 📊 Stats  
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wizard-Mayank&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc)  
+![Streak](https://streak-stats.demolab.com?user=Wizard-Mayank&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wizard-Mayank&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc)
 
-<!-- GITHUB STATS (MINIMAL THEME) -->
-### 📈 GitHub Stats & Visuals  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wizard-Mayank&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wizard-Mayank&layout=compact&theme=transparent&hide_border=true" height="165" />
-</p>
+</div>
 
----
+<!-- Minimal Divider -->
+<img src="https://imgur.com/8bKUjto.png" width="100%" height="2" alt="divider"/>
 
-<!-- ACTIVITY GRAPH -->
-### 📊 Contribution Graph  
-[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wizard-Mayank&theme=github-compact&hide_border=true)](https://github.com/Wizard-Mayank)
+<!-- Featured Projects -->
+## 🚀 Featured Projects  
+<div align="center">
 
----
+[![Portfolio Website](https://img.shields.io/badge/-🌐_Portfolio-111?style=for-the-badge)](https://wizard-mayank.github.io/)  
+[![Backend API](https://img.shields.io/badge/-⚡_Backend_API-111?style=for-the-badge)](#)  
+[![AI Model](https://img.shields.io/badge/-🤖_AI_Model-111?style=for-the-badge)](#)  
 
-<!-- CONTRIBUTION SNAKE -->
-### 🐍 Contribution Snake  
-![snake gif](https://github.com/Wizard-Mayank/Wizard-Mayank/blob/output/github-contribution-grid-snake.svg)
+</div>
 
----
+<!-- Minimal Divider -->
+<img src="https://imgur.com/8bKUjto.png" width="100%" height="2" alt="divider"/>
 
-<!-- SOCIAL LINKS -->
-### 🌐 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/wizardmayank" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/WizardMayank" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/Wizard-Mayank" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/Wizard-Mayank" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=GeeksforGeeks&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Wizard-Mayank" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-</p>
+<!-- Connect -->
+## 🌐 Connect with Me  
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-111?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/wizard-mayank)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-111?style=for-the-badge&logo=leetcode)](https://leetcode.com/Wizard_Mayank)  
+[![GitHub](https://img.shields.io/badge/-GitHub-111?style=for-the-badge&logo=github)](https://github.com/Wizard-Mayank)  
 
-<!-- PROFILE VIEWS -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Wizard-Mayank&label=Profile%20views&color=0e75b6&style=flat" alt="Wizard-Mayank" /> 
-</p>
+</div>
+
+<!-- Minimal Footer -->
+<div align="center">
+  <sub><i>Designed with a clean Apple-style aesthetic • Last updated: 2025</i></sub>
+</div>
