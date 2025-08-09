@@ -1,70 +1,67 @@
-<!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=28&duration=3000&pause=800&color=F5F5F5&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mayank+Pandey;Backend+Developer+%26+AI+Enthusiast;Crafting+Scalable+%26+High-Performance+Systems;Passionate+about+Clean+Architecture;Exploring+AI%2C+ML+%26+Cloud;Always+Learning+Something+New" alt="Typing SVG" />
+  🚀 Mayank Pandey  
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=450&lines=Backend+Developer;AI+%26+ML+Explorer;DSA+Enthusiast;Tech+Visionary" alt="Typing Animation" />
 </h1>
 
-<!-- Minimal Divider -->
-<img src="https://imgur.com/8bKUjto.png" width="100%" height="2" alt="divider"/>
+---
 
-<!-- About Me -->
-## 👋 About Me  
-> Backend developer & AI enthusiast passionate about building efficient, scalable systems with modern architecture.  
-> I focus on **performance**, **security**, and **clean code** while exploring AI/ML and distributed computing.  
+### 🌟 About Me
+> **Backend Developer** with a passion for building scalable systems and exploring **AI/ML innovations**.  
+> Currently maintaining a **GeeksforGeeks 160-Day DSA Challenge streak** and pushing my limits daily.  
+> Dreaming in algorithms, living in terminal windows, and always ready for the next challenge.
 
-<!-- Minimal Divider -->
-<img src="https://imgur.com/8bKUjto.png" width="100%" height="2" alt="divider"/>
+---
 
-<!-- Skills -->
-## 🛠 Skills & Tools  
-<div align="center">
+### 🛠️ Tech Arsenal
+#### 💻 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-| Languages | Frameworks | Tools | Cloud |
-|-----------|------------|-------|-------|
-| ![Python](https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=python) | ![FastAPI](https://img.shields.io/badge/-FastAPI-111?style=for-the-badge&logo=fastapi) | ![Docker](https://img.shields.io/badge/-Docker-111?style=for-the-badge&logo=docker) | ![AWS](https://img.shields.io/badge/-AWS-111?style=for-the-badge&logo=amazonaws) |
-| ![C++](https://img.shields.io/badge/-C++-111?style=for-the-badge&logo=cplusplus) | ![Django](https://img.shields.io/badge/-Django-111?style=for-the-badge&logo=django) | ![Git](https://img.shields.io/badge/-Git-111?style=for-the-badge&logo=git) | ![Azure](https://img.shields.io/badge/-Azure-111?style=for-the-badge&logo=microsoftazure) |
+#### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-</div>
+#### ⚡ Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!-- Minimal Divider -->
-<img src="https://imgur.com/8bKUjto.png" width="100%" height="2" alt="divider"/>
+---
 
-<!-- GitHub Stats -->
-## 📊 Stats  
-<div align="center">
+### 📊 Coding Streaks
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/WizardMayank">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=WizardMayank&theme=dark" alt="GFG Streak" />
+  </a>
+  <a href="https://leetcode.com/u/WizardMayank/">
+    <img src="https://leetcard.jacoblin.cool/WizardMayank?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wizard-Mayank&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc)  
-![Streak](https://streak-stats.demolab.com?user=Wizard-Mayank&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wizard-Mayank&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc)
+---
 
-</div>
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wizard-Mayank&show_icons=true&theme=react&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wizard-Mayank&theme=react&hide_border=true" height="165" />
+</p>
 
-<!-- Minimal Divider -->
-<img src="https://imgur.com/8bKUjto.png" width="100%" height="2" alt="divider"/>
+---
 
-<!-- Featured Projects -->
-## 🚀 Featured Projects  
-<div align="center">
+### 🌱 Currently Learning
+- Advanced **System Design**
+- **AI Agents** & LangChain
+- Performance tuning in backend APIs
 
-[![Portfolio Website](https://img.shields.io/badge/-🌐_Portfolio-111?style=for-the-badge)](https://wizard-mayank.github.io/)  
-[![Backend API](https://img.shields.io/badge/-⚡_Backend_API-111?style=for-the-badge)](#)  
-[![AI Model](https://img.shields.io/badge/-🤖_AI_Model-111?style=for-the-badge)](#)  
+---
 
-</div>
-
-<!-- Minimal Divider -->
-<img src="https://imgur.com/8bKUjto.png" width="100%" height="2" alt="divider"/>
-
-<!-- Connect -->
-## 🌐 Connect with Me  
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-111?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/wizard-mayank)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-111?style=for-the-badge&logo=leetcode)](https://leetcode.com/Wizard_Mayank)  
-[![GitHub](https://img.shields.io/badge/-GitHub-111?style=for-the-badge&logo=github)](https://github.com/Wizard-Mayank)  
-
-</div>
-
-<!-- Minimal Footer -->
-<div align="center">
-  <sub><i>Designed with a clean Apple-style aesthetic • Last updated: 2025</i></sub>
-</div>
+### 📫 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-pandey-a1a4b3234/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://wizard-mayank.github.io)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/WizardMayank)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/WizardMayank/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Wizard-Mayank)
