@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wizard-Mayank/Wizard-Mayank/main/.github/Mayank%20dev%203.gif" width="100%" alt="Hero Intro Animation"/>
+  <img src="https://raw.githubusercontent.com/Wizard-Mayank/Wizard-Mayank/main/.github/Mayank%20dev%203.gif" height="30%" width="50%" alt="Hero Intro Animation"/>
 </p>
 
 ---
