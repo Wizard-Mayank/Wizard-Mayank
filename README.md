@@ -13,7 +13,7 @@
   <a href="https://mayank-portfolio-five.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=14F7FF" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/Wizard-Mayank/My-Portfolio/blob/main/public/Mayank_Resume.pdf" target="_blank">
+  <a href="https://github.com/Wizard-Mayank/mayank-portfolio/blob/main/public/Mayank's%20Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 Resume-000?style=for-the-badge&logo=read-the-docs&logoColor=14F7FF" alt="Resume"/>
   </a>
 </p>
