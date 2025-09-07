@@ -39,7 +39,7 @@ I'm a **Backend Developer & AI/ML Enthusiast**, combining clean code architectur
 - 🤖 ML Projects: **Gesture Recognition**, **Face Detection** using TensorFlow & OpenCV  
 - 📈 DSA Streak: **325+ days on GFG** | **498+ problems solved on LeetCode**  
 - 🛠 Tech Stack: **Python, FastAPI, Node.js, MongoDB, TensorFlow**  
-- 🎧 Fun fact: I code best with synthwave music & a chai in hand  
+- 🎧 Fun fact: I code best with synthwave music & a coffee in hand  
 
 ---
 
