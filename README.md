@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <a href="https://mayank-portfolio-five.vercel.app/" target="_blank">
+  <a href="https://portfolio-neon-five-38.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=14F7FF" alt="Portfolio"/>
   </a>
   <a href="https://github.com/Wizard-Mayank/mayank-portfolio/blob/main/public/Mayank's%20Resume.pdf" target="_blank">
